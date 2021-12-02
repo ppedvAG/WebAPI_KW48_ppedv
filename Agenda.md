@@ -9,15 +9,14 @@ WebAPI Agenda:
 - [x] LifetimeCycles (Guid - theater + TimeService)
 
 
-- [ ] HTTP-Methoden (Get / Post / Put / Delete )
-- [ ] HttpVerbs in Verbindung mit Swagger
+- [x] HTTP-Methoden (Get / Post / Put / Delete )
+- [x] HttpVerbs in Verbindung mit Swagger
 - [ ] Return Values - Controller-Klasse
-- [ ] OpenAPI-SwaggerUI-swagger.json
-  - [ ] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen
-- [ ] Formatter (CSV,XML)
+- [x] OpenAPI-SwaggerUI-swagger.json
+  - [x] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen
+- [x] Formatter (CSV,XML)
 - [ ] Content Negotation (30 Minuten)
-- [ ] Customize Formatter (VCARD)
-- [ ] WebAPI + EFCore + MVC als Client (1 Stunde) (Json Übertragung) 
+- [x] Customize Formatter (VCARD)
 - [ ] HttpClient (30 Minuten)
 - [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core
 
@@ -31,6 +30,9 @@ WebAPI Agenda:
 - [ ] Architekturen -> Hateoas + DataShapping + OData + GraphQL (30 Minuten oder) 
 - [ ] ODATA 8 -> Beispiel Odata-Service Implementierung.  (30-45)
 - [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
+
+
+- [ ] WebAPI + EFCore + MVC als Client (1 Stunde) (Json Übertragung) 
 
 
 

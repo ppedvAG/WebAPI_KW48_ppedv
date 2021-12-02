@@ -22,5 +22,7 @@ namespace DefaultWebAPI.Controllers
         {
             return _timeServce.GetCurrentTime();
         }
+
+        
     }
 }

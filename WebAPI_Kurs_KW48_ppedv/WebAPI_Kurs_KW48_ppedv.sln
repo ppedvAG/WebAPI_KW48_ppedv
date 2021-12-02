@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\Agenda.md = ..\Agenda.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICourseService", "WebAPICourseService\WebAPICourseService.csproj", "{F275A813-B9E3-4FFF-94BF-8634DA553000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientVCardAndXMLSample", "HttpClientVCardAndXMLSample\HttpClientVCardAndXMLSample.csproj", "{2436F90E-6E3B-4B85-B772-0E7CABB491EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{D9D43217-BCDF-4F3F-93B6-A129E7F63A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D43217-BCDF-4F3F-93B6-A129E7F63A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D43217-BCDF-4F3F-93B6-A129E7F63A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F275A813-B9E3-4FFF-94BF-8634DA553000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F275A813-B9E3-4FFF-94BF-8634DA553000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F275A813-B9E3-4FFF-94BF-8634DA553000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F275A813-B9E3-4FFF-94BF-8634DA553000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2436F90E-6E3B-4B85-B772-0E7CABB491EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2436F90E-6E3B-4B85-B772-0E7CABB491EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2436F90E-6E3B-4B85-B772-0E7CABB491EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2436F90E-6E3B-4B85-B772-0E7CABB491EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

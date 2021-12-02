@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\bin\Debug\net5.0\HttpClientVCardAndXMLSample.exe
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\bin\Debug\net5.0\HttpClientVCardAndXMLSample.deps.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\bin\Debug\net5.0\HttpClientVCardAndXMLSample.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\bin\Debug\net5.0\HttpClientVCardAndXMLSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\bin\Debug\net5.0\HttpClientVCardAndXMLSample.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\bin\Debug\net5.0\ref\HttpClientVCardAndXMLSample.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\bin\Debug\net5.0\HttpClientVCardAndXMLSample.pdb
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\ref\HttpClientVCardAndXMLSample.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.pdb
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\HttpClientVCardAndXMLSample\obj\Debug\net5.0\HttpClientVCardAndXMLSample.genruntimeconfig.cache

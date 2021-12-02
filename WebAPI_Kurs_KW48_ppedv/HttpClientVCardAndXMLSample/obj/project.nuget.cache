@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvNozWjlZ+o/P/aIXA8OUJCiywhnj/rqxNVkFIpMqtJoDwjfbsIIafV7+EWy33b8qFrOBehD/P1afHlYW5pqag==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\WebAPI_KW48_ppedv\\WebAPI_Kurs_KW48_ppedv\\HttpClientVCardAndXMLSample\\HttpClientVCardAndXMLSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
