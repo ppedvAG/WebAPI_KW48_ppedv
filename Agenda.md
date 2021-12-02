@@ -15,16 +15,17 @@ WebAPI Agenda:
 - [x] OpenAPI-SwaggerUI-swagger.json
   - [x] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen
 - [x] Formatter (CSV,XML)
-- [ ] Content Negotation (30 Minuten)
+- [o] Content Negotation (30 Minuten)
 - [x] Customize Formatter (VCARD)
-- [ ] HttpClient (30 Minuten)
+- [o] HttpClient (30 Minuten)
 - [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core
 
 
 - [ ] Konfigurationsdaten einlesen 
 - [ ] Logging
+
 - [ ] HTTP-Patch Befehl manuell hinzufügen
-- [ ] Datei übertragn mit WebAPI
+- [ ] Datei übertragn mit WebAPI (fertige Solution->Code Review)
 - [ ] Broadcast Videoübertragung via WebAPI
 - [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
 - [ ] Architekturen -> Hateoas + DataShapping + OData + GraphQL (30 Minuten oder) 
