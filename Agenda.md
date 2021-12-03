@@ -17,7 +17,7 @@ WebAPI Agenda:
 - [x] Formatter (CSV,XML)
 - [x] Content Negotation (30 Minuten)
 - [x] Customize Formatter (VCARD)
-- [o] HttpClient (30 Minuten)
+- [x] HttpClient (30 Minuten)
 
 
 
@@ -31,12 +31,12 @@ WebAPI Agenda:
 - [x] Broadcast Videoübertragung via WebAPI
 - [x] Datei übertragn mit WebAPI (fertige Solution->Code Review)
 - [x] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
-- [ ] Architekturen -> Hateoas + DataShapping + OData + GraphQL (30 Minuten oder) 
-- [ ] ODATA 8 -> Beispiel Odata-Service Implementierung.  (30-45)
+- [x] Architekturen -> Hateoas + DataShapping + OData + GraphQL (30 Minuten oder) 
+- [x] ODATA 8 -> Beispiel Odata-Service Implementierung.  (30-45)
 
 
 
-- [ ] WebAPI + EFCore + MVC als Client (1 Stunde) (Json Übertragung) 
+- [x] WebAPI + EFCore + MVC als Client (1 Stunde) (Json Übertragung) 
 
 
 
