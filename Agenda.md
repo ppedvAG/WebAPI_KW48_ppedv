@@ -11,26 +11,29 @@ WebAPI Agenda:
 
 - [x] HTTP-Methoden (Get / Post / Put / Delete )
 - [x] HttpVerbs in Verbindung mit Swagger
-- [ ] Return Values - Controller-Klasse
+- [x] Return Values - Controller-Klasse
 - [x] OpenAPI-SwaggerUI-swagger.json
   - [x] Koventionsprobleme mit Swagger.json und WebAPI-Konventionen
 - [x] Formatter (CSV,XML)
-- [o] Content Negotation (30 Minuten)
+- [x] Content Negotation (30 Minuten)
 - [x] Customize Formatter (VCARD)
 - [o] HttpClient (30 Minuten)
-- [ ] Migration von MVC & WebAPI von 4.8 auf ASP.NET Core
 
 
-- [ ] Konfigurationsdaten einlesen 
-- [ ] Logging
 
-- [ ] HTTP-Patch Befehl manuell hinzufügen
-- [ ] Datei übertragn mit WebAPI (fertige Solution->Code Review)
-- [ ] Broadcast Videoübertragung via WebAPI
-- [ ] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
+- [x] Konfigurationsdaten einlesen 
+- [-] Logging
+
+- [x] HTTP-Patch Befehl manuell hinzufügen
+- [x] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
+
+
+- [x] Broadcast Videoübertragung via WebAPI
+- [x] Datei übertragn mit WebAPI (fertige Solution->Code Review)
+- [x] Pagging u. weitere WebAPI Features -> Skip/Take für PAging / Sorting und Filtering
 - [ ] Architekturen -> Hateoas + DataShapping + OData + GraphQL (30 Minuten oder) 
 - [ ] ODATA 8 -> Beispiel Odata-Service Implementierung.  (30-45)
-- [ ] Client mit Swagger.json (Aktuell kann es zu Bugs in VS kommen)
+
 
 
 - [ ] WebAPI + EFCore + MVC als Client (1 Stunde) (Json Übertragung) 

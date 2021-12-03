@@ -21,8 +21,8 @@ C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Deb
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\scopedcss\bundle\DefaultWebAPI.styles.css
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\staticwebassets\DefaultWebAPI.StaticWebAssets.Manifest.cache
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\DefaultWebAPI.RazorTargetAssemblyInfo.cache
-C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\DefaultWebAPI.csproj.CopyComplete
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\DefaultWebAPI.dll
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\ref\DefaultWebAPI.dll
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\DefaultWebAPI.pdb
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\obj\Debug\net5.0\DefaultWebAPI.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultWebAPI\bin\Debug\net5.0\swagger.json

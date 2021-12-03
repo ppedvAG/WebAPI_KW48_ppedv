@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DefaultSwaggerClient/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Client": "5.0.12",
+          "NSwag.ApiDescription.Client": "13.13.2",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "DefaultSwaggerClient.dll": {}
+        }
+      },
+      "Microsoft.Extensions.ApiDescription.Client/5.0.12": {},
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "NSwag.ApiDescription.Client/13.13.2": {
+        "dependencies": {
+          "Microsoft.Extensions.ApiDescription.Client": "5.0.12",
+          "NSwag.MSBuild": "13.13.2"
+        }
+      },
+      "NSwag.MSBuild/13.13.2": {}
+    }
+  },
+  "libraries": {
+    "DefaultSwaggerClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.ApiDescription.Client/5.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zP6RCVrPmRCspiBCibd6biWnF9Vi6k342l1QLST/VUXKtIKHvPRmFVVDdwnWxSsJXC8kFoNSJqGCcZkcp7njzg==",
+      "path": "microsoft.extensions.apidescription.client/5.0.12",
+      "hashPath": "microsoft.extensions.apidescription.client.5.0.12.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "NSwag.ApiDescription.Client/13.13.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cssXs/L8E18tQeVS+Ajg2+f5pYtGgsLG2Lqepd6NdNCdOP7HK+i0WlofjaKa03t0UmvtOjtXKqkYpjmSUDo+Qg==",
+      "path": "nswag.apidescription.client/13.13.2",
+      "hashPath": "nswag.apidescription.client.13.13.2.nupkg.sha512"
+    },
+    "NSwag.MSBuild/13.13.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XBh77rUjcosxeQ6m8gMKBLu+vdoDT4E1S/BR92MOtmmszBhP9tL1az1STKw9ZyoWxAFqtaQP+3wgiO/InrMBAA==",
+      "path": "nswag.msbuild/13.13.2",
+      "hashPath": "nswag.msbuild.13.13.2.nupkg.sha512"
+    }
+  }
+}

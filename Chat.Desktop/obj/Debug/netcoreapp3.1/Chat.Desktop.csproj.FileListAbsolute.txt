@@ -42,3 +42,47 @@ C:\KnowledgeCodes\TestArea\WebAPI-SignalR-ChatApplication\WEBAPIProject_CE093\WE
 C:\KnowledgeCodes\TestArea\WebAPI-SignalR-ChatApplication\WEBAPIProject_CE093\WEBAPI-SignalR-Chat\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.dll
 C:\KnowledgeCodes\TestArea\WebAPI-SignalR-ChatApplication\WEBAPIProject_CE093\WEBAPI-SignalR-Chat\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.pdb
 C:\KnowledgeCodes\TestArea\WebAPI-SignalR-ChatApplication\WEBAPIProject_CE093\WEBAPI-SignalR-Chat\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Chat.Desktop.exe
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Chat.Desktop.deps.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Chat.Desktop.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Chat.Desktop.runtimeconfig.dev.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Chat.Desktop.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Chat.Desktop.pdb
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Views\CreateChatRoom.g.cs
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Views\LoginWindow.g.cs
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop_MarkupCompile.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop_MarkupCompile.lref
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Views\CreateChatRoom.baml
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Views\LoginWindow.baml
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.g.resources
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.csproj.CopyComplete
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.pdb
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\Chat.Desktop\obj\Debug\netcoreapp3.1\Chat.Desktop.genruntimeconfig.cache

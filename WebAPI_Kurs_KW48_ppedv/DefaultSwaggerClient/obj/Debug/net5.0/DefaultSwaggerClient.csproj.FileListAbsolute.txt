@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\DefaultSwaggerClient.exe
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\DefaultSwaggerClient.deps.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\DefaultSwaggerClient.runtimeconfig.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\DefaultSwaggerClient.runtimeconfig.dev.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\DefaultSwaggerClient.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\ref\DefaultSwaggerClient.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\DefaultSwaggerClient.pdb
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.AssemblyInfo.cs
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\ref\DefaultSwaggerClient.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.pdb
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.genruntimeconfig.cache
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\DefaultSwaggerClient\obj\Debug\net5.0\DefaultSwaggerClient.csproj.AssemblyReference.cache

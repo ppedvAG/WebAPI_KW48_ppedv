@@ -13,7 +13,9 @@ namespace HttpClientVCardAndXMLSample
             string baseUrl = "https://localhost:5001/api/VCardFormatter";
 
             Console.ReadLine();
-            using HttpClient client = new HttpClient();
+            using HttpClient client = new ();
+            
+            
 
             // Client möchte eine Anfrage stellen und erstellt seinen Request 
             HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, baseUrl);
@@ -22,7 +24,7 @@ namespace HttpClientVCardAndXMLSample
 
             HttpResponseMessage response = await client.SendAsync(request);
 
-
+            //auslesen des Responseergebnisses
             string result = await response.Content.ReadAsStringAsync();
             Console.WriteLine(result);
             Console.ReadKey();

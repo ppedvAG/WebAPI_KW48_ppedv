@@ -26,7 +26,6 @@ C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\o
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\scopedcss\bundle\WebAPICourseService.styles.css
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\staticwebassets\WebAPICourseService.StaticWebAssets.Manifest.cache
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\WebAPICourseService.RazorTargetAssemblyInfo.cache
-C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\WebAPICourseService.csproj.CopyComplete
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\WebAPICourseService.dll
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\ref\WebAPICourseService.dll
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\WebAPICourseService.pdb
@@ -136,3 +135,10 @@ C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\b
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\WebApiContrib.Core.Formatter.Csv.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\SampleWebSettings.Development.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\SampleWebSettings.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\bin\Debug\net5.0\swagger.json
+C:\Aktueller Kurs\WebAPI_KW48_ppedv\WebAPI_Kurs_KW48_ppedv\WebAPICourseService\obj\Debug\net5.0\WebAPICourseService.csproj.CopyComplete
